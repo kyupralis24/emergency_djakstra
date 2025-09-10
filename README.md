@@ -17,7 +17,7 @@ It allows users to interactively select emergency locations on a map, and the pr
 🖼️ Example:  
 ![Single Emergency Demo](assets/single_emergency.png)
 
-🎥 Animation Demo (placeholder GIF):  
+🎥 Animation Demo :  
 ![Ambulance Animation](assets/single_ambulance_animation.gif)
 
 
@@ -36,7 +36,7 @@ It allows users to interactively select emergency locations on a map, and the pr
 🖼️ Example:  
 ![Multi Emergency Dispatch](assets/multi_emergency.png)
 
-🎥 Animation Demo (placeholder GIF):  
+🎥 Animation Demo :  
 ![Ambulance Animation](assets/ambulance_animation.gif)
 
 ---
