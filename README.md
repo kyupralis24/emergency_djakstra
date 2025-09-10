@@ -1,7 +1,3 @@
-Perfect 👍 Here’s the updated README.md with screenshot/gif placeholders added so you can later replace them with actual files once you capture your runs.
-
-⸻
-
 
 # 🚑 Emergency Response Simulation with Dijkstra's Algorithm
 
